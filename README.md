@@ -13,7 +13,7 @@ ftp://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
 * [NASA_access_log_Aug95.gz](https://github.com/greymd/NASA-HTTP/raw/main/NASA_access_log_Aug95.gz)
 * [NASA_access_log_Jul95.gz](https://github.com/greymd/NASA-HTTP/raw/main/NASA_access_log_Jul95.gz)
 
-なお、配布元のオリジナルのサイトではこれらのログファイルは自由な配布が可能（The traces may be freely redistributed.）となっています（2021/12/07現在）。上記の記述に変更があった場合には、本リポジトリの公開も終了する見込みです。
+なお、配布元のオリジナルのサイトではこれらのログファイルは自由な配布が可能（The traces may be freely redistributed.）となっています（2021/12/07現在）。そのため、本リポジトリでも配布をしています。しかしながら、配布元において上記の記述に変更があった場合には、本リポジトリの公開も終了する見込みです。
 
 
 ## 背景
@@ -43,7 +43,7 @@ You can download the log files from the following link.
 * [NASA_access_log_Jul95.gz](https://github.com/greymd/NASA-HTTP/raw/main/NASA_access_log_Jul95.gz)
 
 
-Those files has been distributed under the statement "The traces may be freely redistributed." at the original source (as of December 7th 2021). If there is any change in the above statement, this repository is also expected to be terminated.
+Those files has been distributed under the statement "The traces may be freely redistributed." at the original source (as of December 7th 2021). Therefore, they are distributed on this repository. However, if there is any change in the above statement, this repository is also expected to be terminated.
 
 ## Background
 
